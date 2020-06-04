@@ -28,5 +28,5 @@ public class HibernateServletContextListener implements ServletContextListener {
 		SessionFactory sf = config.buildSessionFactory(serviceRegistry);
 		sce.getServletContext().setAttribute("SessionFactory", sf);
 	}
-
+//为了造成冲突，客户端，20200604
 }
