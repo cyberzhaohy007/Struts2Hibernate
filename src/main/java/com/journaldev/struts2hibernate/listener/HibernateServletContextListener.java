@@ -28,5 +28,9 @@ public class HibernateServletContextListener implements ServletContextListener {
 		SessionFactory sf = config.buildSessionFactory(serviceRegistry);
 		sce.getServletContext().setAttribute("SessionFactory", sf);
 	}
+//<<<<<<< HEAD
 //为了造成冲突，客户端，20200604
+//=======
+//涓轰簡閫犳垚鏈嶅姟绔啿绐侊紝20200604
+//>>>>>>> branch 'master' of https://github.com/cyberzhaohy007/Struts2Hibernate.git
 }
