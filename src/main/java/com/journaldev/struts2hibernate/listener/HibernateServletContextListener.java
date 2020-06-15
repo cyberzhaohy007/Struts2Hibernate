@@ -31,6 +31,6 @@ public class HibernateServletContextListener implements ServletContextListener {
 //<<<<<<< HEAD
 //ÎªÁËÔì³É³åÍ»£¬¿Í»§¶Ë£¬20200604
 //=======
-//ä¸ºäº†é€ æˆæœåŠ¡ç«¯å†²çªï¼Œ20200604
+//É¾³ýÔ¶³ÌÂÒÂë£¬20200615
 //>>>>>>> branch 'master' of https://github.com/cyberzhaohy007/Struts2Hibernate.git
 }
